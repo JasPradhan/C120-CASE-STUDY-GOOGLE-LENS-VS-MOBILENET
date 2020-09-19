@@ -1,0 +1,48 @@
+1.Ball-
+Google Lens- Water polo
+MobileNet-Lampshade, lamp shade
+
+2.Bottle-
+Google Lens-Milton Elfin Thermosteel
+
+MobileNet-lipstick, lip rouge
+
+3.Cork
+Google Lens-Yonex Mavis 350
+
+MobileNet-thimble
+
+4.Cube
+Google Lens-QiYi
+
+MobileNet-binder, ring-binder
+
+5.Dart board
+Google Lens-Dartboard
+
+MobileNet-buckle
+
+6.Glass
+Google Lens-Brandy glass
+
+MobileNet-goblet
+
+7.Mug
+Google Lens-Disneyland paris anniversery 15
+
+MobileNet-coffee mug
+
+8.Plant
+Google Lens-Areca palm
+
+MobileNet-window screen
+
+9.Teddy bear
+Google Lens-Tom and Jerry
+
+MobileNet-espresso maker
+
+10.Watch
+Google Lens-Antique clock
+
+MobileNet-analog clock
